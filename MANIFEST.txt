@@ -1,16 +1,15 @@
-EHCA-001 v0.6 PRIVATE TRANSFER MANIFEST
+EHCA-001 v0.6 PUBLIC RELEASE MANIFEST
 Date: 2026-10-27
 Source version: EHCA-001-v0.6
 Custody: LalaSkye / Ricky Jones
-Visibility: PRIVATE
 
-Local path                                          SHA-256
+File                  SHA-256
 ------------------------------------------------------------
-artifacts/04-labs/ehca-001-v0.6/simulator.py        f618be39383e264ef9089e66dcb43eed361e3640a04157f5fc127e6d69117dff
-artifacts/04-labs/ehca-001-v0.6/check.py            db56873159e9f663d2ecf9920b13419e987c973ea63fe678ea3495c43f48a5c8
-artifacts/04-labs/ehca-001-v0.6/receipts.json       eb24fcd3a7a5988efd9f641e2e67d8ba38a855d48cc448d396001a8ff369110b
-artifacts/04-labs/ehca-001-v0.6/README.md           61c9f9bb388331d2e5187fce4340c636c29b5cbbbf1487d3943e0512564abdae
-artifacts/04-labs/ehca-001-v0.6/README-RC.md        91ecf2657ed08e0e30ba38e91b36d6477863289ef8b25bbf72aebf331c781f15
+simulator.py          f618be39383e264ef9089e66dcb43eed361e3640a04157f5fc127e6d69117dff
+check.py              db56873159e9f663d2ecf9920b13419e987c973ea63fe678ea3495c43f48a5c8
+receipts.json         eb24fcd3a7a5988efd9f641e2e67d8ba38a855d48cc448d396001a8ff369110b
+README.md             (updated for public release; see commit)
+README-RC.md          91ecf2657ed08e0e30ba38e91b36d6477863289ef8b25bbf72aebf331c781f15
 
-Status: CANDIDATE / LOCAL / NOT ADMITTED / NOT A PUBLIC OBJECT
-No secrets, tokens, or unrelated private material included.
+Licence: none granted. Decision pending.
+Status: specimen. Fixture-scoped. Not a production control.

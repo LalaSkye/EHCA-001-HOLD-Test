@@ -1,0 +1,9 @@
+LICENCE DECISION RECORD — EHCA-001 v0.6
+
+No licence is granted.
+
+The absence of an open-source or other licence does not imply permission to reuse, modify, redistribute, or create derivative works.
+
+A licence decision is pending and will be recorded separately if made.
+
+This record does not alter the specimen status or the accountability boundary stated in README.md.
